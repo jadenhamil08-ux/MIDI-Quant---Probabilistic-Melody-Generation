@@ -54,7 +54,7 @@ I incorporated a Tkinter-Based GUI which allows the user to:
 
 **Future Improvements:**
 
-I am exremely proud of this code as it has allowed me to combine my interests in music and quantitative researcb into one project. However there are a few things that I think I could imrpove next time on the design, such as:
+I am exremely proud of this code as it has allowed me to combine my interests in music and quantitative research into one project. However there are a few things that I think I could improve next time on the design, such as:
 - Allowing the user to control more variables, such as pitch range and bar length
 - Extending the project to generate chords as opposed to one-line melodies
 - Exporting the data as a CSV file
