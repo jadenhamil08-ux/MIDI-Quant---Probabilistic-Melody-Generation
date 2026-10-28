@@ -50,7 +50,7 @@ I incorporated a Tkinter-Based GUI which allows the user to:
 - Adjust step probability using sliders
 - Set random seed for reproducibility
 - Generate melodies and export a MIDI file
-- View a summary export panel showing the key and scale, parameters, step ratio and mean interval, and the exported MIDI file location
+- View a summary panel showing the key and scale, parameters, step ratio and mean interval, and the exported MIDI file location
 
 **Future Improvements:**
 
